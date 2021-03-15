@@ -21,3 +21,4 @@ setInterval(function () {
     dangerCount = newCount;
   }
 }, 1000);
+// Мониторинг объёма крипты
